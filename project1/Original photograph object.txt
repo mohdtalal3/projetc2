@@ -1,0 +1,93 @@
+Original photograph object                    
+
+    {
+                            "id": "0d3bf8cf-8a98-477a-9e4c-5dc41dfd3fd3",
+                            "crop_info": {
+                                "user": {
+                                    "width_pct": 1.0,
+                                    "x_offset_pct": 0.0,
+                                    "height_pct": 0.8,
+                                    "y_offset_pct": 0.0
+                                },
+                                "algo": {
+                                    "width_pct": 0.34035528,
+                                    "x_offset_pct": 0.23399,
+                                    "height_pct": 0.1350369,
+                                    "y_offset_pct": 0.26510432
+                                },
+                                "processed_by_bullseye": true,
+                                "user_customized": false,
+                                "faces": [
+                                    {
+                                        "algo": {
+                                            "width_pct": 0.062332455,
+                                            "x_offset_pct": 0.51201284,
+                                            "height_pct": 0.07151004,
+                                            "y_offset_pct": 0.26510432
+                                        },
+                                        "bounding_box_percentage": 0.44999998807907104
+                                    },
+                                    {
+                                        "algo": {
+                                            "width_pct": 0.020940345,
+                                            "x_offset_pct": 0.23399,
+                                            "height_pct": 0.024214413,
+                                            "y_offset_pct": 0.37592682
+                                        },
+                                        "bounding_box_percentage": 0.05000000074505806
+                                    }
+                                ]
+                            },
+                            "url": "https://images-ssl.gotinder.com/u/3i8ove4uwgfaMCj3qXYG5C/enpciYtjHGjBwZ2Xv3wkrd.jpeg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8zaThvdmU0dXdnZmFNQ2ozcVhZRzVDLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODkxNzExMjl9fX1dfQ__&Signature=GTx2nqGdY0qOvAdUTRVpooh6c7T9HYNdT8mtuKQLVCQKjcaQPsWIYj2dPs3YMVBWffBhwp2Z7k-AMq~dTQdBZTXSLWA67BpeQiR576rQ84nmeJwuCRq93DHudBFMkisqhP2Qc-Wvmvt3jlR2jwkIw7GNELS8fdmnkljv2YzdvHEykEO-fVqZbrPvSoGDtMJYqRAdOjzQuZyb30RcfHSj72rb2h394b~~6My16b7ZsGWhT43k5b-HYeRn~WUgUnaEPthlDc0ogdsnWTQFr2q5TihSKJMxBtn6HKFsYgDKCg17MQSG6A2Nq1vb8GpT6kyNwpVrSLdlWaQwdA3lH~Hyjg__&Key-Pair-Id=K368TLDEUPA6OI",
+                            "processedFiles": [
+                                {
+                                    "url": "https://images-ssl.gotinder.com/u/3i8ove4uwgfaMCj3qXYG5C/w1PmwdQRP2d2oNggaz37ab.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8zaThvdmU0dXdnZmFNQ2ozcVhZRzVDLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODkxNzExMjl9fX1dfQ__&Signature=GTx2nqGdY0qOvAdUTRVpooh6c7T9HYNdT8mtuKQLVCQKjcaQPsWIYj2dPs3YMVBWffBhwp2Z7k-AMq~dTQdBZTXSLWA67BpeQiR576rQ84nmeJwuCRq93DHudBFMkisqhP2Qc-Wvmvt3jlR2jwkIw7GNELS8fdmnkljv2YzdvHEykEO-fVqZbrPvSoGDtMJYqRAdOjzQuZyb30RcfHSj72rb2h394b~~6My16b7ZsGWhT43k5b-HYeRn~WUgUnaEPthlDc0ogdsnWTQFr2q5TihSKJMxBtn6HKFsYgDKCg17MQSG6A2Nq1vb8GpT6kyNwpVrSLdlWaQwdA3lH~Hyjg__&Key-Pair-Id=K368TLDEUPA6OI",
+                                    "height": 800,
+                                    "width": 640
+                                },
+                                {
+                                    "url": "https://images-ssl.gotinder.com/u/3i8ove4uwgfaMCj3qXYG5C/6ukHD8WJpWba2TSM1SiHET.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8zaThvdmU0dXdnZmFNQ2ozcVhZRzVDLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODkxNzExMjl9fX1dfQ__&Signature=GTx2nqGdY0qOvAdUTRVpooh6c7T9HYNdT8mtuKQLVCQKjcaQPsWIYj2dPs3YMVBWffBhwp2Z7k-AMq~dTQdBZTXSLWA67BpeQiR576rQ84nmeJwuCRq93DHudBFMkisqhP2Qc-Wvmvt3jlR2jwkIw7GNELS8fdmnkljv2YzdvHEykEO-fVqZbrPvSoGDtMJYqRAdOjzQuZyb30RcfHSj72rb2h394b~~6My16b7ZsGWhT43k5b-HYeRn~WUgUnaEPthlDc0ogdsnWTQFr2q5TihSKJMxBtn6HKFsYgDKCg17MQSG6A2Nq1vb8GpT6kyNwpVrSLdlWaQwdA3lH~Hyjg__&Key-Pair-Id=K368TLDEUPA6OI",
+                                    "height": 400,
+                                    "width": 320
+                                },
+                                {
+                                    "url": "https://images-ssl.gotinder.com/u/3i8ove4uwgfaMCj3qXYG5C/cdLnD8txApSWUK1KdRDm71.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8zaThvdmU0dXdnZmFNQ2ozcVhZRzVDLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODkxNzExMjl9fX1dfQ__&Signature=GTx2nqGdY0qOvAdUTRVpooh6c7T9HYNdT8mtuKQLVCQKjcaQPsWIYj2dPs3YMVBWffBhwp2Z7k-AMq~dTQdBZTXSLWA67BpeQiR576rQ84nmeJwuCRq93DHudBFMkisqhP2Qc-Wvmvt3jlR2jwkIw7GNELS8fdmnkljv2YzdvHEykEO-fVqZbrPvSoGDtMJYqRAdOjzQuZyb30RcfHSj72rb2h394b~~6My16b7ZsGWhT43k5b-HYeRn~WUgUnaEPthlDc0ogdsnWTQFr2q5TihSKJMxBtn6HKFsYgDKCg17MQSG6A2Nq1vb8GpT6kyNwpVrSLdlWaQwdA3lH~Hyjg__&Key-Pair-Id=K368TLDEUPA6OI",
+                                    "height": 216,
+                                    "width": 172
+                                },
+                                {
+                                    "url": "https://images-ssl.gotinder.com/u/3i8ove4uwgfaMCj3qXYG5C/76s95Qegf2QWSRCZKz88cP.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8zaThvdmU0dXdnZmFNQ2ozcVhZRzVDLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODkxNzExMjl9fX1dfQ__&Signature=GTx2nqGdY0qOvAdUTRVpooh6c7T9HYNdT8mtuKQLVCQKjcaQPsWIYj2dPs3YMVBWffBhwp2Z7k-AMq~dTQdBZTXSLWA67BpeQiR576rQ84nmeJwuCRq93DHudBFMkisqhP2Qc-Wvmvt3jlR2jwkIw7GNELS8fdmnkljv2YzdvHEykEO-fVqZbrPvSoGDtMJYqRAdOjzQuZyb30RcfHSj72rb2h394b~~6My16b7ZsGWhT43k5b-HYeRn~WUgUnaEPthlDc0ogdsnWTQFr2q5TihSKJMxBtn6HKFsYgDKCg17MQSG6A2Nq1vb8GpT6kyNwpVrSLdlWaQwdA3lH~Hyjg__&Key-Pair-Id=K368TLDEUPA6OI",
+                                    "height": 106,
+                                    "width": 84
+                                }
+                            ],
+                            "processedVideos": [],
+                            "fileName": "0d3bf8cf-8a98-477a-9e4c-5dc41dfd3fd3.jpg",
+                            "extension": "jpg,webp",
+                            "assets": [
+                                {
+                                    "url": "https://images-ssl.gotinder.com/u/qoUzPTg4JE8ZuKLC8wNp5K/9nZjMCH8yUFDrZ1tFqSrUF.jpg?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8zaThvdmU0dXdnZmFNQ2ozcVhZRzVDLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODkxNzExMjl9fX1dfQ__&Signature=GTx2nqGdY0qOvAdUTRVpooh6c7T9HYNdT8mtuKQLVCQKjcaQPsWIYj2dPs3YMVBWffBhwp2Z7k-AMq~dTQdBZTXSLWA67BpeQiR576rQ84nmeJwuCRq93DHudBFMkisqhP2Qc-Wvmvt3jlR2jwkIw7GNELS8fdmnkljv2YzdvHEykEO-fVqZbrPvSoGDtMJYqRAdOjzQuZyb30RcfHSj72rb2h394b~~6My16b7ZsGWhT43k5b-HYeRn~WUgUnaEPthlDc0ogdsnWTQFr2q5TihSKJMxBtn6HKFsYgDKCg17MQSG6A2Nq1vb8GpT6kyNwpVrSLdlWaQwdA3lH~Hyjg__&Key-Pair-Id=K368TLDEUPA6OI",
+                                    "asset_type": "image",
+                                    "width": 320,
+                                    "height": 400,
+                                    "enhancements": [
+                                        "blurred"
+                                    ]
+                                }
+                            ],
+                            "media_type": "image"
+                        }
+                    ],
+
+
+
+Adjusted JSON for photos in the main object after all the fields were removed from it
+
+                        {
+                            "id": "0d3bf8cf-8a98-477a-9e4c-5dc41dfd3fd3",
+			##################
+			    "image": 0d3bf8cf-8a98-477a-9e4c-5dc41dfd3fd3.wbp   (this is the image we donwloaded from 800x640
+			#################
+
+                        }
+

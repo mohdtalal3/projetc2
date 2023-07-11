@@ -1,0 +1,42 @@
+Full User Data (all of the data)
+ - user_id
+ - everything from json
+
+=======================
+Photo
+ - user_id
+ - photo-id
+ - file-name
+ - hash  (face-detect)   - (!!!)
+ - faceposition
+
+1. Incoming directory
+ - Scan for json file
+ - move to in_process
+ - process
+
+2. ProcesOneJson
+ - FaceDetect (get you faces)
+ - for Each face: 
+ - Create Face Object 
+ - Download photo (800x600) - 0 photo in JSON and store in Images directory [already compressed into webp]
+
+      (if there is more than one - same user_id, same photo_id, just different hash)
+
+3. Write to Mongo
+ - First collection - full dat
+ - second collection (photos)
+
+4. Fetch faces
+ - array[photo_id][hash]
+
+5. Compare image
+ - take array from #4
+ - detect face from input image
+ - return true/false + acuracy
+
+
+
+
+https://levelup.gitconnected.com/face-recognition-with-opencv-e93350876c84
+https://pysource.com/2021/08/16/face-recognition-in-real-time-with-opencv-and-python/
